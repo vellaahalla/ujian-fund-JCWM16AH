@@ -4,7 +4,7 @@
 Sebelum anda mengerjakan soal ujian, pastikan anda memiliki akun **GitHub** dan ***software git*** sudah terinstall dilaptop. Anda dapat memastikan bahwa **git** sudah terinstall dilaptop anda dengan menjalankan perintah berikut ini diterminal atau ***cmd*** : ``` git --version ```. Jika muncul *versi git* maka komputer anda sudah terinstal *git*.
 
 Soal ujian dapat anda temukan didalam repositori ini atau anda dapat melihatnya melalui :
-- link :
+- link : https://drive.google.com/file/d/1aSZxTtX3y8jJAqqsqmu3UK-eBeki2Ek9/view?usp=sharing
 
 Sebelum mengerjakan ujian, bacalah dengan seksama aturan serta panduan dalam mengerjakan soal-soal ujian berikut ini.
 
